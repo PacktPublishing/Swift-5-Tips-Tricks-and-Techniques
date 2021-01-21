@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/swift-5-tips-tricks-and-techniques-video/9781838983574)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Swift-5-Tips-Tricks-and-Techniques
 Swift 5 Tips Tricks and Techniques, published by Packt
 # Swift 5 Tips Tricks and Techniques [Video]
